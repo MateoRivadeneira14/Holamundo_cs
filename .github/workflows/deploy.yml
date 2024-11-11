@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/programn1:latest  
+          tags: ${{ secrets.DOCKER_USERNAME }}/Holamundo_cs:latest  
