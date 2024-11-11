@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Matt\\Documents\\Programacion Distribuida\\C# Projects\\Holamundo_cs\\Holamundo_CS\\wwwroot\\images\\unnamed.jpg",
+      "PackagePath": "staticwebassets\\images\\unnamed.jpg"
+    },
+    {
       "Id": "C:\\Users\\Matt\\Documents\\Programacion Distribuida\\C# Projects\\Holamundo_cs\\Holamundo_CS\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

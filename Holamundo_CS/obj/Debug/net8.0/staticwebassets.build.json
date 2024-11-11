@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "az/YwzkpplI/EPNGNXTTp70/23JKwFA5E6OOq4CxSHo=",
+  "Hash": "R1hoylSXQ9gak8Hnu/9faY84/jtqSrYGQZmADOQxIj4=",
   "Source": "Holamundo_CS",
   "BasePath": "_content/Holamundo_CS",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Matt\\Documents\\Programacion Distribuida\\C# Projects\\Holamundo_cs\\Holamundo_CS\\wwwroot\\images\\unnamed.jpg",
+      "SourceId": "Holamundo_CS",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matt\\Documents\\Programacion Distribuida\\C# Projects\\Holamundo_cs\\Holamundo_CS\\wwwroot\\",
+      "BasePath": "_content/Holamundo_CS",
+      "RelativePath": "images/unnamed.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\unnamed.jpg"
     },
     {
       "Identity": "C:\\Users\\Matt\\Documents\\Programacion Distribuida\\C# Projects\\Holamundo_cs\\Holamundo_CS\\wwwroot\\js\\site.js",
